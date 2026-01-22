@@ -75,7 +75,7 @@ c. Optimisasi: Tools analitik sederhana membantu pedagang mengidentifikasi pasar
 ---
 
 ## Dashboard
-Visualisasi interaktif dapat diakses melalui tautan di bawah ini:
+Visualisasi interaktif dapat diakses melalui tautan di bawah ini:  
 [Tableau Dashboard](https://public.tableau.com/views/CODA_RMT12_finalproj/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1033" height="599" alt="image" src="https://github.com/user-attachments/assets/43de1d03-ec23-40c0-91a7-e825134638b6" />
 
