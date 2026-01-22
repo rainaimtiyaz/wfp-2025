@@ -66,11 +66,11 @@ C. Tahap Load (Pemuatan Data) | Memindahkan data yang sudah bersih ke penyimpana
 
 ---
 
-## Analisis & Insight
-Berdasarkan hasil analisis pada `final_project_analysis.ipynb`, ditemukan beberapa poin kunci:
-a. Dampak Mata Uang: Negara dengan tekanan devaluasi mata uang mengalami kenaikan harga lokal yang lebih tinggi dibanding tren global.
-b. Dinamika Pasokan: GDP per kapita bukan faktor utama penentu harga; stabilitas pasokan dan struktur pasar jauh lebih berpengaruh.
-c. Optimisasi: Tools analitik sederhana membantu pedagang mengidentifikasi pasar termurah untuk strategi restok.
+## Analisis & Insight  
+Berdasarkan hasil analisis pada `final_project_analysis.ipynb`, ditemukan beberapa poin kunci:  
+a. Dampak Mata Uang: Negara dengan tekanan devaluasi mata uang mengalami kenaikan harga lokal yang lebih tinggi dibanding tren global.  
+b. Dinamika Pasokan: GDP per kapita bukan faktor utama penentu harga; stabilitas pasokan dan struktur pasar jauh lebih berpengaruh.  
+c. Optimisasi: Tools analitik sederhana membantu pedagang mengidentifikasi pasar termurah untuk strategi restok.  
 
 ---
 
