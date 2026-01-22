@@ -1,5 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Q6ZQd3M9)
 
+# 🌍 Analisis Harga Pangan Global 2025
+> **Final Project: Comprehensive Data Analysis (CODA) - RMT-012**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-3.0+-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Warehouse-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://neon.tech/)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/)
+
 ## Analisis Harga Pangan Global 2025
 _Final Project CODA RMT-012_
 
