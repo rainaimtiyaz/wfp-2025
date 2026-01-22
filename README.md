@@ -12,7 +12,7 @@ Kami mengerjakan proyek ini secara kolaboratif. Berikut adalah kontributor di ba
 | **Mikael Owen Kartika** | Data Engineer | [@mikaelowenn](https://github.com/mikaelowenn) | [LinkedIn](https://www.linkedin.com/in/mikaelowen/) |
 | **Muhammad Raihan Alfain Y** | Data Analyst | [@MDRays](https://github.com/MDRays) | [LinkedIn](https://www.linkedin.com/in/muhammad-raihan-alfain-yonanda-452b08320/) |
 | **Putrima Azizi Al-Fauztina** | Data Analyst | [@putrimaazizi](https://github.com/putrimaazizi) | [LinkedIn](https://www.linkedin.com/in/putrima-azizi-al-fauztina-38491720b/) |
-| **Raina Imtiyaz** | Data Analyst | [[@rainaimtiyaz](https://github.com/rainaimtiyaz) | [LinkedIn](https://www.linkedin.com/in/rainaimtiyaz/) |
+| **Raina Imtiyaz** | Data Analyst | [@rainaimtiyaz](https://github.com/rainaimtiyaz) | [LinkedIn](https://www.linkedin.com/in/rainaimtiyaz/) |
 
 ---
 
