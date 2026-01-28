@@ -25,28 +25,28 @@ Bagaimana cara memahami dan menganalisis dinamika harga komoditas global pada ta
 ---
 
 ## Eksplorasi Data Harga Pangan Global (WFP 2025)
-Menggabungkan Data Harga Pangan dengan GDP per Kapita
-a. Mapping Negara
-Menambahkan kolom Country yang berisi nama negara dengan mengacu pada kolom CountryISO3.
-b. Sumber Data Tambahan
-Mengimpor data GDP per kapita untuk memberikan konteks ekonomi pada analisis harga.
-c. Data Cleaning
-Mengubah beberapa tipe data menjadi numerik, menangani perbedaan penulisan nama negara antar dataset, dan menangani anomali data.
+Menggabungkan Data Harga Pangan dengan GDP per Kapita  
+a. Mapping Negara  
+Menambahkan kolom Country yang berisi nama negara dengan mengacu pada kolom CountryISO3.  
+b. Sumber Data Tambahan  
+Mengimpor data GDP per kapita untuk memberikan konteks ekonomi pada analisis harga.  
+c. Data Cleaning  
+Mengubah beberapa tipe data menjadi numerik, menangani perbedaan penulisan nama negara antar dataset, dan menangani anomali data.  
 
 ## Skalabilitas & Efisiensi
-Strategi kami berfokus pada Arsitektur Modern yang Hemat Biaya. Dengan menggunakan tools, tidak hanya mendapatkan performa tinggi, tapi juga efisiensi operasional
-a. Memproses data lebih cepat (PySpark).
-b. Mengurangi biaya infrastruktur (Neon DB).
-c. Mempercepat waktu pengembangan dan deployment (Docker).
+Strategi kami berfokus pada Arsitektur Modern yang Hemat Biaya. Dengan menggunakan tools, tidak hanya mendapatkan performa tinggi, tapi juga efisiensi operasional  
+a. Memproses data lebih cepat (PySpark).  
+b. Mengurangi biaya infrastruktur (Neon DB).  
+c. Mempercepat waktu pengembangan dan deployment (Docker).  
 
 ## Proses ETL
-A. Tahap Extract (Ekstraksi Data) | Mengambil data mentah dari sumber luar
-1. Sumber Data
-World Food Programme (WFP) Humanitarian Data Portal.
-2. Format
-Dataset dalam bentuk CSV.
-3. Metode
-Pengambilan data dilakukan secara otomatis menggunakan protokol HTTP GET (API call atau direct download).
+A. Tahap Extract (Ekstraksi Data) | Mengambil data mentah dari sumber luar  
+1. Sumber Data  
+World Food Programme (WFP) Humanitarian Data Portal.  
+2. Format  
+Dataset dalam bentuk CSV.  
+3. Metode  
+Pengambilan data dilakukan secara otomatis menggunakan protokol HTTP GET (API call atau direct download).  
 
 B. Tahap Transform (Transformasi Data) | Pemrosesan data menggunakan framework PySpark untuk mengubah data mentah menjadi format yang siap dianalisis
 1. Cleaning
