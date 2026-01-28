@@ -17,7 +17,7 @@ Kami mengerjakan proyek ini secara kolaboratif. Berikut adalah kontributor di ba
 ---
 
 ## Tentang Data
-Dataset **WFP Food Prices Global 2025** menyediakan data harga komoditas yang bersifat granular, mencakup informasi waktu, lokasi pasar, jenis komoditas, harga lokal, harga dalam USD, serta indikator ekonomi seperti GDP per kapita. Data ini memungkinkan analisis terhadap tren harga, perbandingan harga antar wilayah, serta keterkaitan antara kondisi ekonomi dan harga komoditas.
+Dataset **[WFP Food Prices Global 2025](https://data.humdata.org/dataset/global-wfp-food-prices)** menyediakan data harga komoditas yang bersifat granular, mencakup informasi waktu, lokasi pasar, jenis komoditas, harga lokal, harga dalam USD, serta indikator ekonomi seperti [GDP per kapita](http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.CD&country=). Data ini memungkinkan analisis terhadap tren harga, perbandingan harga antar wilayah, serta keterkaitan antara kondisi ekonomi dan harga komoditas.
 
 **Pernyataan Masalah**  
 Bagaimana cara memahami dan menganalisis dinamika harga komoditas global pada tahun 2025 dengan mengidentifikasi tren harga, perbedaan harga antar pasar dan negara, serta hubungan antara harga komoditas dan kondisi ekonomi, sehingga dapat mendukung pengambilan keputusan operasional yang lebih efisien (seperti restok komoditas) dan memberikan insight berbasis data terkait ketimpangan harga dan daya beli masyarakat?
